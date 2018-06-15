@@ -1,5 +1,8 @@
-webpackSimple
+# webpack simple
 
-webpack version : 2.7.0<br />
-webpack-dev-server : 2.9.1
+웹팩 스터디용
+
+```js
+npm install
+```
 
